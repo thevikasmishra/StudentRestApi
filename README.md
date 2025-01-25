@@ -33,8 +33,6 @@ DELETE	/students/{id}	Delete a student from the system by ID.
 Clone the repository:
 git clone https://github.com/thevikasmishra/StudentRestApi
 
-Navigate to the project directory:
-cd Student-Management-System-App-Demo-project-
 
 
 
